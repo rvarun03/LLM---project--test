@@ -1,0 +1,12 @@
+{
+  "name": "Remix Deployment 23/09/2026",
+  "description": "A comprehensive QA management platform that uses Gemini AI to generate test scenarios, test cases, and automation scripts from screenshots, URLs, and documents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
